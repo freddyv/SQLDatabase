@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLDatabase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="person_id">personId</string>
+    <string name="person_name_first">personNameFirst</string>
+    <string name="person_name_last">personNameLast</string>
+    <string name="person_records">personRecords</string>
+    <string name="action_settings">personRecords</string>
+
+</resources>
